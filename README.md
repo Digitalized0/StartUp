@@ -10,7 +10,7 @@
 
 <body>
     <h1 style="font-family: 'Courier New', Courier, monospace;">
-        Hey, im a 13 year old which despite my young age, I am quite experienced in the workings of creating websites, also parker smells like crap L L L
+        Hey, im a 13 year old which despite my young age, I am quite experienced in the workings of creating websites, also parker smells L L L
     </h1>
 
 </body>
